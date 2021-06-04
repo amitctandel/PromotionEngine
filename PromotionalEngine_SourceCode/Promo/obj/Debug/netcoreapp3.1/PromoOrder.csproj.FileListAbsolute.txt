@@ -1,0 +1,16 @@
+C:\Amit T\Clarios\Projects\SKU\SKU\SKU\bin\Debug\netcoreapp3.1\PromoOrder.exe
+C:\Amit T\Clarios\Projects\SKU\SKU\SKU\bin\Debug\netcoreapp3.1\PromoOrder.deps.json
+C:\Amit T\Clarios\Projects\SKU\SKU\SKU\bin\Debug\netcoreapp3.1\PromoOrder.runtimeconfig.json
+C:\Amit T\Clarios\Projects\SKU\SKU\SKU\bin\Debug\netcoreapp3.1\PromoOrder.runtimeconfig.dev.json
+C:\Amit T\Clarios\Projects\SKU\SKU\SKU\bin\Debug\netcoreapp3.1\PromoOrder.dll
+C:\Amit T\Clarios\Projects\SKU\SKU\SKU\bin\Debug\netcoreapp3.1\PromoOrder.pdb
+C:\Amit T\Clarios\Projects\SKU\SKU\SKU\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Amit T\Clarios\Projects\SKU\SKU\SKU\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Amit T\Clarios\Projects\SKU\SKU\SKU\obj\Debug\netcoreapp3.1\PromoOrder.csprojAssemblyReference.cache
+C:\Amit T\Clarios\Projects\SKU\SKU\SKU\obj\Debug\netcoreapp3.1\PromoOrder.AssemblyInfoInputs.cache
+C:\Amit T\Clarios\Projects\SKU\SKU\SKU\obj\Debug\netcoreapp3.1\PromoOrder.AssemblyInfo.cs
+C:\Amit T\Clarios\Projects\SKU\SKU\SKU\obj\Debug\netcoreapp3.1\PromoOrder.csproj.CoreCompileInputs.cache
+C:\Amit T\Clarios\Projects\SKU\SKU\SKU\obj\Debug\netcoreapp3.1\PromoOrder.csproj.CopyComplete
+C:\Amit T\Clarios\Projects\SKU\SKU\SKU\obj\Debug\netcoreapp3.1\PromoOrder.dll
+C:\Amit T\Clarios\Projects\SKU\SKU\SKU\obj\Debug\netcoreapp3.1\PromoOrder.pdb
+C:\Amit T\Clarios\Projects\SKU\SKU\SKU\obj\Debug\netcoreapp3.1\PromoOrder.genruntimeconfig.cache
